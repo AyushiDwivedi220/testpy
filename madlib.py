@@ -1,0 +1,12 @@
+adjective1=input("ADJECTIVE:")
+noun1=input("NOUN:")
+place=input("PLACE:")
+adjective2=input("ADJECTIVE:")
+noun2=input("NOUN:")
+verb=input("VERB:")
+exclamation=input("EXCLAMATION:")
+number=input("NUMBER:")
+animal=input("ANIMAL:")
+noun3=input("NOUN:")
+
+print(f"Once upon a time, there was a {adjective1} person named {noun1} who lived in {place}. Steve was a very {adjective2} person who always dreamed of being like {noun2}. \nOne day, while walking through the forest, Steve worked hard and shouted, {exclamation} Suddenly, {number} {animal} appeared out of nowhere. \n{noun1} couldn't believe their eyes and decided to name the first {animal} {noun3}.From that day on, {noun1} and {noun3} went on many adventures together, living happily ever after.")
